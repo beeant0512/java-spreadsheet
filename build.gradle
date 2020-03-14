@@ -1,0 +1,6 @@
+group 'com.xstudio'
+version '1.0.0-SNAPSHOT'
+
+dependencies {
+    testCompile('org.junit.jupiter:junit-jupiter:5.4.2')
+}
